@@ -14,5 +14,7 @@ About Me:
 
 📜 Certifications and Courses:
 Microsoft Certified: Azure Data Engineer (DP-203)
+
 Microsoft Certified: Azure Data Fundamentals
+
 PL-300: Power BI Certification.
