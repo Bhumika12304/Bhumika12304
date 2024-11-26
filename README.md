@@ -13,6 +13,7 @@ About Me:
 🌱 Currently Learning: Advanced data-related technologies to enhance my skills.
 
 📜 Certifications and Courses:
+
 Microsoft Certified: Azure Data Engineer (DP-203)
 
 Microsoft Certified: Azure Data Fundamentals
